@@ -2,6 +2,8 @@
 
 ⭐⭐⭐ My dream is to reach 100 stars, **please help** ⭐⭐⭐
 
+<a href="https://github.com/welel/noted"><img src="https://github-readme-stats.vercel.app/api/pin/?username=welel&repo=noted" /></a>
+
 [Link to my primary account](https://github.com/welel)
 
 <img src="https://d2y5h3osumboay.cloudfront.net/j0bw9na5s7bca4ps9bvvh89ag8b7" />
